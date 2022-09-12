@@ -11,3 +11,6 @@ java <file_name>
 4. AreaOfCircle
 5. UnaryOperators
 6. Conditional Statements
+7. Control Flow
+8. Reverse of Number
+9. Reverse Given Number
