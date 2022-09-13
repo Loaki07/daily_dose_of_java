@@ -16,3 +16,4 @@
    1. [x] [Reverse Given Number](./mod_2/ReverseGivenNumber.java) 
    2. [x] [Prime Number](./mod_2/PrimeNumbers.java)
    3. [x] [Sum of Even & odd](./mod_2/EvenOdd.java)
+   4. [x] [Factorial](./mod_2/Factorial.java)
