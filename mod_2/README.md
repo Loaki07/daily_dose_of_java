@@ -9,3 +9,4 @@ java <file_name>
 ## Topics Covered:
 1. Reverse Given Number 
 2. Prime Number
+3. Sum of Even & odd

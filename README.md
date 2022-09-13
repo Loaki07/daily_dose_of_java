@@ -13,5 +13,6 @@
    8. Reverse of Number
    9.  Break & Continue Statements
 2. [x] (mod_2: Basic Algorithms)[./mod_2]
-   2. Reverse Given Number 
-   3. Prime Number
+   2. [x] (Reverse Given Number)[./mod_2/ReverseGivenNumber.java] 
+   3. [x] (Prime Number)[./mod_2/PrimeNumbers.java]
+   4. [x] (Sum of Even & odd)[./mod_2/EvenOdd.java]
