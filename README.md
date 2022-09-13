@@ -20,3 +20,4 @@
 3. [x] [Patterns: Learn Nested Looping by solving Patterns](./mod_3)
    1. [x] [BasicStarPattern](./mod_3/BasicStarPattern.java) 
    2. [x] [InvertedStarPattern](./mod_3/InvertedStarPattern.java) 
+   3. [x] [CharacterPattern](./mod_3/CharacterPattern.java) 

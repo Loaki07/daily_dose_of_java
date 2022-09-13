@@ -8,4 +8,5 @@ java <file_name>
 
 ## Topics Covered:
 1. [x] [BasicStarPattern](./BasicStarPattern.java) 
-1. [x] [InvertedStarPattern](./InvertedStarPattern.java) 
+2. [x] [InvertedStarPattern](./InvertedStarPattern.java) 
+3. [x] [CharacterPattern](./CharacterPattern.java) 
