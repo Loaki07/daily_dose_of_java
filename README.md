@@ -21,3 +21,5 @@
    1. [x] [BasicStarPattern](./mod_3/BasicStarPattern.java) 
    2. [x] [InvertedStarPattern](./mod_3/InvertedStarPattern.java) 
    3. [x] [CharacterPattern](./mod_3/CharacterPattern.java) 
+4. [x] [mod_4: Functions & Methods](./mod_4)
+   1. [x] [ProductOfTwoNumbers](./mod_4/ProductOfTwoNumbers.java) 
