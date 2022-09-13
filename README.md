@@ -17,3 +17,5 @@
    2. [x] [Prime Number](./mod_2/PrimeNumbers.java)
    3. [x] [Sum of Even & odd](./mod_2/EvenOdd.java)
    4. [x] [Factorial](./mod_2/Factorial.java)
+3. [x] [Patterns: Learn Nested Looping by solving Patterns](./mod_3)
+   1. [x] [BasicStarPattern](./mod_3/BasicStarPattern.java) 
